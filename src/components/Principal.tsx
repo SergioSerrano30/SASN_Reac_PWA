@@ -7,13 +7,15 @@ export const Principal = () => {
       <button className="btn btn-primary">Bienvenido</button>
       <br />
       <img
-        src="https://okdiario.com/guiltybit/wp-content/uploads/2021/07/web-Dragon-Ball-Super-Super-Hero.jpg"
+        src="../images/dbz.jpg"
         alt="goku"
         style={{
-          width: 400,
-          height: 300
+          width: 200,
+          height: 150
         }}
+        
       />
+      <h3>Test Cambio en PWA  realizado con éxito :)</h3>
     </div>
   );
 };
